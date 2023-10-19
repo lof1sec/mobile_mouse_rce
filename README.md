@@ -1,4 +1,4 @@
-# mobile_mouse_rce
+# Mobile Mouse 3.6.0.4 Remote Code Execution Exploit (Fixed HTTP version)
 Mobile Mouse 3.6.0.4 Remote Code Execution Exploit (Fixed HTTP version)
 
 Fixed version of this exploit https://www.exploit-db.com/exploits/51010
